@@ -1,0 +1,47 @@
+.primary-bg {
+  background-color: rgb(182, 140, 90) !important;
+}
+
+.monir {
+  justify-content: space-between;
+}
+
+.logo {
+  height: 40px;
+  width: 140px;
+}
+
+.banner-slider{
+  background: linear-gradient(-180deg, #111111 0%, rgba(17, 17, 17, 0) 100%) !important;
+  transform: rotate(0deg);
+}
+
+.backgournd-banner{
+  background-image: url(../images/banner.png);
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+}
+
+.text{
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.text-logo{
+  color: rgb(182, 140, 90) !important;
+}
+
+.slider-img1{
+  border-radius: 8px !important;
+  background: rgba(17, 17, 17, 0.8) !important;
+  transform: rotate(-0deg);
+}
+.blackbotom{
+  background-image: url(../images/Rectangle\ 7.png);
+}
+.carousel-caption {
+  background-image: url('image.png');
+  background-color: rgba(39, 40, 41, 0.848); 
+  background-blend-mode: multiply;
+}
